@@ -21,7 +21,7 @@ export async function GET(request) {
       description:
         "Developed an impressive website for dyslexia detectiona and multisensory fingertip games for user training",
       stack: ["Reactjs", "Tailwindcss","Firebase-Authentication","Firestore-database"],
-      link: "https://nurique.vercel.app/",
+      link: "https://www.youtube.com/watch?v=GUicEivUNbs&t=3s",
     
     },
 
