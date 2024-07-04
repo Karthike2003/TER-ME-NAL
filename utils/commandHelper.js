@@ -95,7 +95,7 @@ export const CONTENTS = {
   projects: getProjects,
   contact: getContacts,
   resume: () => {
-    window.open("https://drive.google.com/file/d/1uU9e_pHtuxgqsFarTvN_OiNnId1hK1ID/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1wwaHhg3TomGhDizrPC7Z98NEMKmn82lP/view", "_blank");
     return "";
   },
   error: (input) =>
